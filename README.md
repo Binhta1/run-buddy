@@ -12,3 +12,5 @@ https://lernantino.github.io/run-buddy/
 
 ## contribution
 Made with ❤️ by Binh Ta
+
+### ©️2019 Run Buddy, Inc
